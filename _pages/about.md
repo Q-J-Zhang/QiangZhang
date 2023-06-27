@@ -6,7 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ![Github_main - Copy](https://github.com/QiangZhang-QZ/QiangZhang/assets/75514501/23b7e378-5306-4aff-8e68-136291901ab3)
+
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
